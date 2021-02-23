@@ -1,6 +1,6 @@
 # Project Santa Cruz Development Kit unboxing and setup
 
-After [onboarding](https://github.com/microsoft/Project-Santa-Cruz-Private-Preview/blob/main/user-guides/getting_started/azure-subscription-onboarding.md) for Private Preview has been completed, and you have received your Project Santa Cruz Development Kit, you are ready to begin developing with Santa Cruz. Reference this guide for information on connecting the devkit components and powering on the device.
+Reference this guide for information on connecting the devkit components and powering on the device.
 
 ## Prerequisites
 
