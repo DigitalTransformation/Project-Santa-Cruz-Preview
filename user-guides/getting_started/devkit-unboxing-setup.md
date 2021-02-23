@@ -13,6 +13,10 @@ After [onboarding](https://github.com/microsoft/Project-Santa-Cruz-Private-Previ
 1. Unbox the devkit components.
 
     - The devkit contains a carrier board, Azure Eye SoM, Azure Ear SoM, RGB camera, accessories box with antennas and required cables, a section of 80/20 1010 Series mounting rail, and a welcome card with a hex key.
+	
+	- The welcome card includes a sticker that has two passwords needed to access the dev kit's wifi access point. The first password is "santacruz" and is what should be used with the dev kit out of the box. The second password is "scz-***xxxx***" (where ***xxxx*** are the last four digits of the dev kit's MAC address), and will be activated after you upgrade the dev kit to the latest OS version. **DO NOT LOSE THIS PASSWORD**. 
+	
+	![image](./getting_started_images/welcome-card-sticker.PNG)
 
     - The major components come mounted to the 80/20 rail out of the box, but they can be removed or adjusted with the included hex key as desired.
 
