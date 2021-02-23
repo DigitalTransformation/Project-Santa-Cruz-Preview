@@ -4,7 +4,6 @@ After [onboarding](https://github.com/microsoft/Project-Santa-Cruz-Private-Previ
 
 ## Prerequisites
 
-- [Onboarding](https://github.com/microsoft/Project-Santa-Cruz-Private-Preview/blob/main/user-guides/getting_started/azure-subscription-onboarding.md) for Private Preview has been completed.
 - Project Santa Cruz Devkit.
 - P7 screwdriver (optional, used for securing the power cable connector to the carrier board).
 
