@@ -21,7 +21,7 @@ ms.topic: reference  # the type of article
 |Weight                          |TBD          |
 |OS                              |CBL-Mariner           |
 |Management Control Plane        |OT Managed: <br> ADU <br> IOT Edge <br> IOT Hub          |
-|Supported Software and Services |Azure Device Update <br> Azure IoT <br> Azure IoT Hub <br> Azure IoT Central <br> Azure IoT Edge and Marketplace <br> Azure Container Registry <br> Azure Mariner OS with Connectivity <br> Azure Machine Learning <br> ONNX Runtime <br> TensorFlow <br> Azure Analysis Services <br> Azure PnP <br> Azure Device Provisioning Service (DPS) <br> Cognitive Service Containers <br> PowerBI       |
+|Supported Software and Services |Azure Device Update <br> Azure IoT <br> Azure IoT Hub <br> Azure IoT Central <br> Azure IoT Edge and Marketplace <br> Azure Container Registry <br> Azure Mariner OS with Connectivity <br> Azure Machine Learning <br> ONNX Runtime <br> TensorFlow <br> Azure Analysis Services <br> IoT Plug and Play <br> Azure Device Provisioning Service (DPS) <br> Cognitive Service Containers <br> PowerBI       |
 |General Processor               |Carrier Board: NXP iMX8m         |
 |AI Acceleration                 |1x Intel Movidius Myriad X Integrated ISP (Azure Eye SoM) <br> 1x Realtek ALC4050 Codec (Azure Ear SoM)       |
 |Sensors and Visual Indicators   |Camera: Omni Vision 5670 <br> Lens: GSO GS8882AA (Resolution: 5MP at 30FPS, Distance: 50cm - infinity, FoV: 120 degrees, Color: Wide Dynamic Range, Fixed Focus Rolling Shutter)          |
