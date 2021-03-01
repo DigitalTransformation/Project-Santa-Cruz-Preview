@@ -74,6 +74,7 @@ The Dev Tools Pack Installer is a one-stop solution that installs and configures
         > 
         > - VirtualBox prior to version 4.3.30 must not be installed as it is not compatible with Docker Desktop.
 
+        - The installer is not supported on Apple M1.
 ## Instructions
 
 1. Download the Dev Tools Pack Installer for [Windows](https://go.microsoft.com/fwlink/?linkid=2132187), [Linux](https://go.microsoft.com/fwlink/?linkid=2132186) and [Mac](https://go.microsoft.com/fwlink/?linkid=2132296).
