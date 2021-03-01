@@ -128,7 +128,7 @@ performed within the notebook through your remote compute instance.
         ![azure_icon](https://github.com/microsoft/Project-Santa-Cruz-Preview/blob/main/Sample-Scripts-and-Notebooks/Official/Machine%20Learning%20Notebooks/article_images/azure_icon.png)
 
     1. Open the Transferlearningusing_SSDLiteV2 Model_VSCode.ipynb notebook from the **myworkspace** folder.
-    1. Open the command palette. Enter and select **Python: specify local or remote Jupyter server for connections**.
+    1. Open the command palette. Enter and select **Jupyter: specify local or remote Jupyter server for connections**.
     1. You should see a list of connection options to choose from. Select **Azure ML Compute Instances**.
 
         ![azure_ml_compute_instances](https://github.com/microsoft/Project-Santa-Cruz-Preview/blob/main/Sample-Scripts-and-Notebooks/Official/Machine%20Learning%20Notebooks/article_images/azure_ml_compute_instances.png)
