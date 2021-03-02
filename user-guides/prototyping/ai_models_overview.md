@@ -6,7 +6,6 @@ Project Santa Cruz enables you to develop and deploy AI models directly to your 
 
 The Project Santa Cruz portal contains sample models for the following applications:
 
-- face detection
 - people detection
 - vehicle detection
 - general object detection
