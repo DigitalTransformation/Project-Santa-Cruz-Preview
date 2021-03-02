@@ -98,11 +98,8 @@ edited directly in the notebook. To run a cell, click the play icon on the left 
 
 ## Provide feedback
 
-After completing the advanced tools cloud development experience, please provide feedback
+After completing the advanced tools experiences, please provide feedback
 via this [questionnaire](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRzoJxrXKT0dEvfQyxsA0h8lUMzE0V0pCTFU4UUVSS0xTRUtNT0hZSEs1Ry4u).
 Your feedback will help us continue to fine-tune and improve the advanced tools experience.
-
-For more information on Project Santa Cruz Quests and to provide feedback on other experiences,
-please visit the [test scenarios page](https://github.com/microsoft/Project-Santa-Cruz-Private-Preview/blob/main/user-guides/general/test-scenarios.md).
 
 For additional Azure Machine Learning service example notebooks, please visit this [repo](https://github.com/Azure/MachineLearningNotebooks/tree/2aa7c53b0ce84e67565d77e484987714fdaed36e/how-to-use-azureml)
