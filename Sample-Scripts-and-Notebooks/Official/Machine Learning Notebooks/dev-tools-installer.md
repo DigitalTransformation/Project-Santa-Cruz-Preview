@@ -170,3 +170,10 @@ If the installer notifies you to verify Docker Desktop is in a good running stat
          1. If you do not see the above icon listed in the system tray, launch Docker Desktop from the start menu.
          
          1. If Docker prompts you to reboot, it's fine to close the installer and relaunch after a reboot has completed and Docker is in a running state. Any successfully installed third party applications should be detected and will not be automatically re-installed.
+
+## Provide Feedback
+After completing the advanced tools experiences, please provide feedback
+via this [questionnaire](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRzoJxrXKT0dEvfQyxsA0h8lUMzE0V0pCTFU4UUVSS0xTRUtNT0hZSEs1Ry4u).
+Your feedback will help us continue to fine-tune and improve the advanced tools experience.
+
+For additional Azure Machine Learning service example notebooks, please visit this [repo](https://github.com/Azure/MachineLearningNotebooks/tree/2aa7c53b0ce84e67565d77e484987714fdaed36e/how-to-use-azureml)
