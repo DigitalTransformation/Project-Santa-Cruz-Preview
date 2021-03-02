@@ -13,7 +13,7 @@ Please see the specifications below for the Eye SoM that is included in the Proj
 |Product Specification           |Eye SoM     |
 |--------------------------------|---------------------|
 |Target Industries               |Manufacturing <br> Smart Buildings <br> Auto <br> Retail |
-|Hero Scenarios                  |Shopper Analytics <br> On-shelf Availability <br> Shrink Reduction <br> Security/Surveillance <br> Workplace Safety|
+|Hero Scenarios                  |Shopper analytics <br> On-shelf availability <br> Shrink reduction <br> Occupational health and safety|
 |Included in Box                 |1x AI Vision SoM |
 |Dimensions                      |42mm x 42mm x 40mm (Eye SoM assembly with housing) <br> 42mm x 42mm x 6mm (Eye SoM chip)|
 |OS                              |NA           |
