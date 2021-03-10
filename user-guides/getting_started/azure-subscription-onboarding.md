@@ -44,7 +44,7 @@ Onboarding also allows for easy enablement of DPS and AIU, both recommended feat
 
     1. Enter your IoT Hub name. It is recommended that you create a new IoT Hub for working solely with Project Santa Cruz.  
 
-    1. Select your hub’s pricing tier from the drop-down menu. The S1 tier is recommended for use with Project Santa Cruz because other pricing tiers do not support IoT Edge, which is required. Note that Azure account credits may be used towards IoT Hub fees.
+    1. Select your hub’s pricing tier from the drop-down menu. The standard (S1, S2, or S3) tier is recommended for use with Project Santa Cruz because other pricing tiers (basic tiers) do not support IoT Edge, which is required. Note that Azure account credits may be used towards IoT Hub fees.
 
     1. Select a resource group from the drop-down menu or create a new one.  
 
