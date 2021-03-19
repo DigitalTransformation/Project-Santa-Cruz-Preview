@@ -8,7 +8,7 @@ In the event you get blocked for any reason or if you have a question, you can g
 
 	To open a support request, 
 
-	- click here to launch the Issues page
+	- [click here](https://github.com/microsoft/Project-Santa-Cruz-Preview/blob/main/user-guides/general/get-support.md) to launch the Issues page
 	- search the existing issues to see if it has been addressed for a another user
 	- if not, click the "New" button
 	- enter the details of you issue or question
