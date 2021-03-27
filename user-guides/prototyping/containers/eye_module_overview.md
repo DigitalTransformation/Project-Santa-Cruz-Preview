@@ -35,10 +35,15 @@ azureeyemodule supports the following module twin settings:
 
 |Property         |Type        |Description                  |
 |-----------------|------------|-----------------------------|
-|ModelZipUrl |String |Path to the blob storage where the vision model is stored. For example: "https://pretrainedmodels.blob.core.windows.net/aeddevkit/tiny-yolo-v2.zip" |
+|Logging| Boolean | Enable/disable debug logging. |
+|ModelZipUrl |String |Path to the blob storage where the vision model is stored. For example: "https://aedsamples.blob.core.windows.net/vision/aeddevkitnew/tiny-yolo-v2.zip" |
 |RawStream |Boolean |Enable/disable the raw RTSP stream for production use cases. |
 |ResultStream |Boolean |Enable/disable the result RTSP stream for production use cases. |
-|TelemetryInterval |Integer |Limits the messages sent to IoT Hub by a factor of 1/[X], where X is the integer value of TelemetryInterval. For example, if TelemetryInterval is set to 2, only half of the total messages get sent to the IoT Hub. |
+|RetrainingDataCollectionEnabled | Boolean | Enable/disable saving images from the camera for retraining purposes. |
+|RetrainingDataCollectionInterval | Integer | Controls how often we save an image if `RetrainingDataCollectionEnabled` is set to true. Units are seconds. |
+|StreamFPS | Integer | The desired frames per second of the camera feed. |
+|StreamResolution | String | Must be one of `native`, `1080p`, or `720p`. Sets the resolution of the camera feed. |
+|TelemetryInterval |Integer | Determines how often to send messages from the neural network. Sends a message at most once every this many milliseconds. Please note that Azure subscriptions have a limited number of messages per day (depending on the subscription tier). **If you find yourself locked out due to having sent too many messages, increase this to a higher number**. In particular, 12000 (meaning once every 12 seconds) will give you a nice round 7200 messages per day, which is under the 8000 message limit for the free subscription. |
 
 ### How to locate and edit your module identity twin settings
 
