@@ -43,7 +43,7 @@ azureeyemodule supports the following module twin settings:
 |RetrainingDataCollectionInterval | Integer | Controls how often we save an image if `RetrainingDataCollectionEnabled` is set to true. Units are seconds. |
 |StreamFPS | Integer | The desired frames per second of the camera feed. |
 |StreamResolution | String | Must be one of `native`, `1080p`, or `720p`. Sets the resolution of the camera feed. |
-|TelemetryInterval |Integer | Determines how often to send messages from the neural network. Sends a message at most once every this many milliseconds. Please note that Azure subscriptions have a limited number of messages per day (depending on the subscription tier). **If you find yourself locked out due to having sent too many messages, increase this to a higher number**. In particular, 12000 (meaning once every 12 seconds) will give you a nice round 7200 messages per day, which is under the 8000 message limit for the free subscription. |
+|TelemetryIntervalNeuralNetworkMs |Integer | Determines how often to send messages from the neural network. Sends a message at most once every this many milliseconds. Please note that Azure subscriptions have a limited number of messages per day (depending on the subscription tier). **If you find yourself locked out due to having sent too many messages, increase this to a higher number**. In particular, 12000 (meaning once every 12 seconds) will give you a nice round 7200 messages per day, which is under the 8000 message limit for the free subscription. |
 
 ### How to locate and edit your module identity twin settings
 
