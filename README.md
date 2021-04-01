@@ -1,5 +1,12 @@
 # Welcome to the Project Santa Cruz Private Preview
 
+## ADU account migration notification
+#### Who is impacted?
+The migration will be only applied to ADU account (Device Update for IoT Hub) insantce that was NOT created in the region of West US 2. This notification can be ignored if your are not currently using ADU or the existing ADU account is created in the West US 2 region.
+#### Impact and mitigation
+We plan to migrate all the ADU accounts to the region of West US 2 on 4/12, 2021. This migration will happen automatically on the backstage. After the migration, the instance is expected to work correctly as it was. For some case, the user/application were assigned to the role of "Device Update Administrator" might be missed.
+
+
 ## **BREAKING CHANGE ALERT**
 
 #### What is the change?
