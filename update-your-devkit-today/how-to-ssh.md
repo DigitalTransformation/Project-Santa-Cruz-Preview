@@ -93,8 +93,6 @@ If your Windows computer does not include OpenSSH, we recommend using [PuTTY](ht
     > [!TIP]
     > If your dev kit is connected to a Wi-Fi network but you do not know its IP address, go to Azure Percept Studio and [open your device's video stream](./how-to-view-video-stream.md). The address bar in the video stream browser tab will show your device's IP address.
 
-    :::image type="content" source="./media/how-to-ssh-into-percept-dk/ssh-putty.png" alt-text="Screenshot of PuTTY Configuration window.":::
-
 1. A PuTTY terminal will open. When prompted, enter "root" as the SSH username and "p@ssw0rd" as teh password into the terminal.
 
 1. Congratulations! You have successfully connected to your dev kit over SSH.
