@@ -1,4 +1,4 @@
-# Update Your Dev Kit - Drop-in Support Sessions Schecule
+# Update Your Dev Kit - Drop-in Support Sessions Schedule
 
 Here is a schedule of 60 minutes support sessions where the Azure Percept team will be available via a Microsoft Teams meeting to assist you with updating your dev kits.
 
