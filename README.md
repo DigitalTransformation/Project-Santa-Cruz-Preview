@@ -2,9 +2,9 @@
 
 Project Santa Cruz is now Azure Percept. See more information from [the announcement](https://www.youtube.com/watch?v=yVbRY2SSPyY) at Microsoft Ignite.
 
-**Product documentation has been moved to Microsoft Docs. [Click here](https://docs.microsoft.com/en-us/azure/azure-percept/) to get all the latest product documentation including product overviews, tutorials, and how-to guides.**
-
 If you are part of the private preview program and have private preview dev kits, come back to this GitHub repo for announcements related to the program.
+
+**Product documentation has been moved to Microsoft Docs. [Click here](https://docs.microsoft.com/en-us/azure/azure-percept/) to get all the latest product documentation including product overviews, tutorials, and how-to guides.**
 
 ## Announcement - Update your dev kit's software and firmware today
 
