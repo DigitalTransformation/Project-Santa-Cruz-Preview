@@ -32,7 +32,7 @@ This guide will show you how to successfully update your dev kit's operating sys
 
 ## 3 - Update your device
 
-1. Connect to your dev kit [via SSH](./update-your-devkit-today/private-preview-update-instructions.md).
+1. Connect to your dev kit [via SSH](https://github.com/microsoft/Azure-Percept-Private-Preview/blob/main/update-your-devkit-today/how-to-ssh.md).
 
 1. Next, open a Windows command prompt (**Start** > **cmd**) or a Linux terminal and navigate to the folder where the update files and UUU tool are stored. Enter the following command in the command prompt or terminal to prepare your computer to receive a flashable device:
 
