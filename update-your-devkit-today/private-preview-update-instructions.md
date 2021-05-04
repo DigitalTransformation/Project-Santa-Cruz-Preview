@@ -12,6 +12,7 @@ This guide will show you how to successfully update your dev kit's operating sys
 - An Azure Percept DK
 - A Windows, Linux, or OS X based host computer with Wi-Fi capability and an available USB-C or USB-A port
 - A USB-C to USB-A cable (optional, sold separately)
+- [Collect your device's TPM-derived SoftAP password](https://github.com/microsoft/Azure-Percept-Private-Preview/tree/main/tools/SoftAP-access-info-tool)
 
 ## 1 - Download software tools and update files
 
