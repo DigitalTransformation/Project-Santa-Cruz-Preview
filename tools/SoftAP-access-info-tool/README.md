@@ -13,7 +13,6 @@ SoftAP, or software-enabled access point, allows your device to act as a wireles
 - [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 - Host PC
 - Project Santa Cruz AI Perception Devkit (PE100 or PE101)
-- [Collect your device's TPM-derived SoftAP password](https://github.com/microsoft/Azure-Percept-Private-Preview/tree/main/tools/SoftAP-access-info-tool)
 
 ## Using the tool
 
