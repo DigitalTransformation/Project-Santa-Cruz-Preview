@@ -70,6 +70,12 @@ This guide will show you how to successfully update your dev kit's operating sys
 1. Navigate back to the other command prompt or terminal. When the update is finished, you will see a message with ```Success 1    Failure 0```:
 
     > [!NOTE]
-    > After updating, your device will be reset to factory settings and you will lose your Wi-Fi connection and SSH login.
+    > After updating, your device will be reset to factory settings and the access point name will change to "apd-xxxx". Addtionally, you will need to set up your dev kit on your wifi network again and create a new SSH login account.
 
 1. Once the update is complete, power off the carrier board. Unplug the USB cable from the PC.
+
+Your dev kit now has the Public Preview software and you can use the Azure Percept [public documentation](https://docs.microsoft.com/en-us/azure/azure-percept/)
+
+## Next Steps
+1. [Set up your dev kit](https://docs.microsoft.com/en-us/azure/azure-percept/quickstart-percept-dk-set-up) and connect it to Azure IoT Hub.
+1. Set up your dev kit to [receive software updates over-the-air](https://docs.microsoft.com/en-us/azure/azure-percept/how-to-set-up-over-the-air-updates).
