@@ -20,4 +20,4 @@ If you are part of the private preview program and have private preview dev kits
 
 **Product documentation has been moved to Microsoft Docs. [Click here](https://docs.microsoft.com/en-us/azure/azure-percept/) to get all the latest product documentation including product overviews, tutorials, and how-to guides.**
 
-
+[Safety Manuals](https://github.com/microsoft/Azure-Percept-Private-Preview/tree/main/user-guides/hardware/Safety%20Information)
