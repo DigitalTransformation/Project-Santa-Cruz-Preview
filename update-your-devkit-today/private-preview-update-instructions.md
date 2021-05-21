@@ -20,7 +20,7 @@ This guide will show you how to successfully update your dev kit's operating sys
 
 1. [7-Zip](https://www.7-zip.org/). This software will be used for extracting the raw image file from its XZ compressed file. Download and install the appropriate .exe file.
 
-1. [Download the update files](https://go.microsoft.com/fwlink/?linkid=2155734). This will automatically download a zipped package that contains all of the needed update files (fast-hab-fw.raw, Azure-Percept-DK-1.0.20210409.2055.raw, and emmc_full.txt).
+1. [Download the update files](https://go.microsoft.com/fwlink/?linkid=2155734). This will automatically download a zipped package that contains all of the needed update files (fast-hab-fw.raw, Azure-Percept-DK-1.0.20210511.1825.raw, and emmc_full.txt).
 
 
 ## 2 - Set up your environment
@@ -40,13 +40,13 @@ This guide will show you how to successfully update your dev kit's operating sys
     - Windows:
 
         ```console
-        uuu -b emmc_full.txt fast-hab-fw.raw Azure-Percept-DK-1.0.20210409.2055.raw 
+        uuu -b emmc_full.txt fast-hab-fw.raw Azure-Percept-DK-1.0.20210511.1825.raw 
         ```
 
     - Linux:
 
         ```bash
-        sudo ./uuu -b emmc_full.txt fast-hab-fw.raw Azure-Percept-DK-1.0.20210409.2055.raw
+        sudo ./uuu -b emmc_full.txt fast-hab-fw.raw Azure-Percept-DK-1.0.20210511.1825.raw
         ```
 
 1. Disconnect the Azure Percept Vision device from the carrier board's USB-C port.
