@@ -1,3 +1,9 @@
+# Announcement - The aedppsup@microsoft.com email inbox is no longer being monitored
+Going forward, please use one of these official Microsoft channels to get help: -
+- Documentation: [Azure Percept documentation](https://docs.microsoft.com/en-us/azure/azure-percept/)
+- Online Communities: [Microsoft Q&A](https://docs.microsoft.com/en-us/answers/products/)
+- Azure Customer Support: By creating a support ticket from the Azure Percept Studio. [Azure Support Plans Comparison | Microsoft Azure](https://azure.microsoft.com/en-us/support/plans/) 
+
 # The Azure Percept Private Preview Program has graduated
 Thank you for your participation! 
 
@@ -6,7 +12,7 @@ We are extremely grateful to you for being the first to join us as we began our 
 As you know, Azure Percept DK currently is in Public Preview and the Private Preview Program has graduated.
 
 ## What does the Private Preview Program has graduated mean? 
-Technical support over our email alias (aedppsup@microsoft.com) will close on June 4Th 2021.  Microsoft has many support options to meet your needs. You can now leverage the official Microsoft channels to get help:
+Technical support over our email alias (aedppsup@microsoft.com) is closed as of June 4Th 2021.  Microsoft has many support options to meet your needs. You can now leverage the official Microsoft channels to get help:
 - Documentation: [Azure Percept documentation](https://docs.microsoft.com/en-us/azure/azure-percept/)
 - Online Communities: [Microsoft Q&A](https://docs.microsoft.com/en-us/answers/products/)
 - Azure Customer Support: By creating a support ticket from the Azure Percept Studio. [Azure Support Plans Comparison | Microsoft Azure](https://azure.microsoft.com/en-us/support/plans/)
