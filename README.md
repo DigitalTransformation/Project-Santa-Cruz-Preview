@@ -1,5 +1,5 @@
 # Announcement - The aedppsup@microsoft.com email inbox is no longer being monitored
-Going forward, please use one of these official Microsoft channels to get help: -
+Going forward, please use one of these official Microsoft channels to get help:
 - Documentation: [Azure Percept documentation](https://docs.microsoft.com/en-us/azure/azure-percept/)
 - Online Communities: [Microsoft Q&A](https://docs.microsoft.com/en-us/answers/products/)
 - Azure Customer Support: By creating a support ticket from the Azure Percept Studio. [Azure Support Plans Comparison | Microsoft Azure](https://azure.microsoft.com/en-us/support/plans/) 
